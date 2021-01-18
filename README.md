@@ -12,5 +12,5 @@ When this happens, the items will sppear in the 'swapped' page for both users.
 
 The app is built with React Native on expo. We have used firebase for our user authentication, firebase storage to store the uploads and cloud firestore for the live chat.
 
-A video demonstration is the app will be available shortly.
+A video demonstration of the app will be available shortly.
 
