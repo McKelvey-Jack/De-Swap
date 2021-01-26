@@ -12,7 +12,7 @@ When this happens, the items will sppear in the 'swapped' page for both users.
 
 The app is built with React Native on expo. We have used firebase for our user authentication, firebase storage to store the uploads and cloud firestore for the live chat.
 
-Our Northcoders Graduation video will feature a demo of the app, but in the meantime here is a video of ed and myself walking through the app on zoom. https://www.youtube.com/watch?v=wKb9zrlRFv8&ab_channel=JackMcKelvey
+You can see de-swap in action here https://www.youtube.com/watch?v=CawFeitBxUk&t=481s&ab_channel=Northcoders
 
 Jack :) 
 
